@@ -27,3 +27,5 @@ Default Password : ubuntu
 
 To install ROS on the drive px 2 clone the repo and run the installROS.sh file by running the following command from your terminal
 >> ./installROS.sh 
+
+Once ROS is installed follow the steps at http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment to setup your ROS environment
